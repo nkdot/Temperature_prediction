@@ -54,10 +54,11 @@
 ### Apply the best model in entire dataset:
 ###### Based on the accuracy in validation data, the two most accurate were the following, ranked first and second. 
 ###### 1.Two-Level Linear with Seasonality and Auto-ARIMA for Residuals
+###### On the entire dataset, we get RMSE(0.881) & MAPE(6.925)
 ![alt text](https://github.com/nkdot/Temperature_prediction/blob/main/images/best1_plot.png "Two level model with Auto arima for residuals")
 
 ###### 2.Two-Level Linear with Seasonality and AR(1) for Residuals
-
+###### On the entire dataset, we get RMSE(0.890) & MAPE(6.849)
 ![alt text](https://github.com/nkdot/Temperature_prediction/blob/main/images/best2_plot.png "Two level model with AR(1) for residuals")
 
 
