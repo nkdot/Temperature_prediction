@@ -62,5 +62,7 @@
 ![alt text](https://github.com/nkdot/Temperature_prediction/blob/main/images/best2_plot.png "Two level model with AR(1) for residuals")
 
 
+### Conclusion:
+Our best model is able to predict the average monthly minimum temperature for the future(2 years) with 6.85% MAPE
 
 
